@@ -1,0 +1,24 @@
+body{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: black;
+    display: flex;
+}
+.item{
+    padding: 10px;
+}
+.item:hover{
+    background-color: brown;
+}
+.item a{
+    text-decoration: none;
+    color: white;
+}
+@media screen and (max-width: 500px) {
+    .navbar{
+        flex-direction: column;
+    }
+}
