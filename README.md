@@ -1,4 +1,4 @@
-# 📌 Responsive Navigation Bar
+# 📌 Navigation Bar
 
 A simple and responsive navigation bar built using **HTML** and **CSS**, designed to help beginners practice front-end layout and styling. The nav bar includes links to various sections such as Home, Blog, Contact, and more.
 
@@ -65,7 +65,7 @@ git clone https://github.com/Krushna-Chandra/navigation-bar.git
 
 ## 🌐 Live Demo
 
-> *(Optional: Deploy on GitHub Pages and add the link here)*
+> [Live demo](https://krushna-chandra.github.io/navigation-bar/)
 
 ---
 
